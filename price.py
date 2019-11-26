@@ -6,5 +6,5 @@ x= format_price
 x1 = str(x)
 y= "Цена:"
 z= y + x1
-print(z)
+print(y)
  
