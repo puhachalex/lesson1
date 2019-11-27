@@ -8,6 +8,11 @@ print(mylist)
 
 print(len(mylist))
 
+print(mylist[0])
+
+print(mylist[-1])
+
 mylist.remove('Python')
 
 print(len(mylist))
+
