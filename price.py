@@ -1,8 +1,8 @@
 def format_price(price):
     price_int = int(price)
-    a = "Цена: ЧИСЛО руб."
-    print(a, price_int)  
-format_price(56.24)
+    a = f"Цена: {price_int} руб."
+    print(a)  
+format_price(57.12)
   
 
 
