@@ -14,5 +14,4 @@ print(mydict.get("country"))
 print(mydict.get("country", "Россия"))
 
 mydict["date"] = "27.05.2019"
-
 print(len(mydict))
